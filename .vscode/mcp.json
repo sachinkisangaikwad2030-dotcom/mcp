@@ -1,0 +1,11 @@
+{
+  "servers": {
+    "echo-stdio": {
+      "type": "stdio",
+      "command": "node",
+      "args": [
+        "${workspaceFolder}/server.js"
+      ]
+    }
+  }
+}
